@@ -75,6 +75,7 @@
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="com.jakewharton.android.viewpagerindicator.sample.SAMPLE" />
             </intent-filter>
+            adadhfjdshfjsdfjsadfsa
         </activity>
         <activity
             android:name=".SampleCirclesWithListener"
