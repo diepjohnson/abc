@@ -1,5 +1,11 @@
 Team leader android programmer
 a= 012
+<<<<<<< HEAD
 b1=1211 
 b*b=4*a*Cdef
 abcd
+=======
+b1=123
+b*b=4*a*C*d
+abcd
+>>>>>>> c9b9807a773d08c90bdc1254ba1854c295884ff0
