@@ -31,7 +31,7 @@ da
 
 adadafsdfsdafsdafds tetete
         <!-- CIRCLE INDICATOR -->
-dâddsaddaads
+dÃ¢ddsaddaads
         <activity
             android:name=".SampleCirclesDefault"
             android:label="Circles/Default">
@@ -303,7 +303,11 @@ dâddsaddaads
         </activity>
 afasfasdddddddddddddddddddddd
 
-dâdsasdsadssda
+dÃ¢dsasdsadssda
     </application>
+<<<<<<< HEAD
 alqaeda
+=======
+    alqaeda123
+>>>>>>> origin/master
 </manifest>
