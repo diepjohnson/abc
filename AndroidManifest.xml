@@ -3,4 +3,10 @@ a= 012
 b1=1211 
 b*b=4*a*C*d
 abcd
+<<<<<<< HEAD
 
+=======
+develop branch
+master branch
+android android
+>>>>>>> eeb264fb1961cf74023151083d38b04f16266a62
